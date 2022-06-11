@@ -1,0 +1,9 @@
+.default {
+    font-size: 14px;
+    font: 'Noto Sans JP';
+    background-color: green;
+}
+
+.App {
+    background-color: red;
+}
